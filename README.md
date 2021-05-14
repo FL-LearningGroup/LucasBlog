@@ -1,0 +1,2 @@
+# LucasBlog
+Learn notes
